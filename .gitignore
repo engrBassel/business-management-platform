@@ -23,4 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+# Firestore
 src/firebase.js
+.firebase
+.firebaserc
+firebase.json
