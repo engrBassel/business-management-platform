@@ -19,6 +19,6 @@ I'm excited to share the final project of my journey in the Front-End Web Develo
 
 This project marked a significant milestone in improving my front-end development skills! It challenged me to build scalable features and ensure a seamless user experience.
 
-Live Demo: https://my-business2024.web.app/
+Live Demo: https://my-business2024.web.app
 
 ![Dashboard](https://github.com/user-attachments/assets/aa6f34d4-4829-47f5-9c92-a7d98e403d1a)
